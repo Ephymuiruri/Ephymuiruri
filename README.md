@@ -1,4 +1,4 @@
-## Hi there 👋
+![Ephymuiruri's GitHub Banner](https://raw.githubusercontent.com/Ephymuiruri/Ephymuiruri/main/banner.png)
 
 <!--
 **Ephymuiruri/Ephymuiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
