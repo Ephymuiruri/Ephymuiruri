@@ -1,9 +1,9 @@
-![Ephymuiruri's GitHub Banner](https://raw.githubusercontent.com/Ephymuiruri/Ephymuiruri/main/banner.png)
-
+## Hi there 
 <!--
 **Ephymuiruri/Ephymuiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img width="2560" height="640" alt="Ephymuiruri-readme-banner" src="https://github.com/user-attachments/assets/e377f14c-87b1-423e-8f72-9dd3048633c0" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
