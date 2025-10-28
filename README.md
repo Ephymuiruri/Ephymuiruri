@@ -1,16 +1,28 @@
-## Hi there 
-<!--
-**Ephymuiruri/Ephymuiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ephymuiruri
 
-Here are some ideas to get you started:
-<img width="2560" height="640" alt="Ephymuiruri-readme-banner" src="https://github.com/user-attachments/assets/e377f14c-87b1-423e-8f72-9dd3048633c0" />
+Welcome to my GitHub profile! I'm passionate about technology and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently working on various software development projects
+- 🌱 I'm continuously learning and exploring new technologies
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about software development, coding, and technology
+- 📫 How to reach me: Connect with me through GitHub
+
+## 🛠️ Technologies & Tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Ephymuiruri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ephymuiruri&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+Feel free to reach out and connect! I'm always interested in collaborating on interesting projects.
+
+---
+
+⭐️ From [Ephymuiruri](https://github.com/Ephymuiruri)
